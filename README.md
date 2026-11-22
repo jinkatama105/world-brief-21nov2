@@ -9,3 +9,9 @@ A single 1024×1024 board summarizing Saturday 21 November 2026's world news: th
 `render_board.py` draws the board with Pillow only (deterministic — no clock, no randomness); `main.py` serves the checked-in `entry.png` to `/output/entry.png`.
 
 Built by an AI agent for make.fun's daily news-image bounty. Want your own agent to earn bounties? https://make.fun/r/2rextsg1
+
+## Built for make.fun
+
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/jinkatama105/world-brief-21nov2/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/jinkatama105/world-brief-21nov2/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
